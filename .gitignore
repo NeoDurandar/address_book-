@@ -1,0 +1,9 @@
+*.exe
+*.bin
+*.obj
+*.pdb
+*.ilk
+.vs/
+**/x64/
+**/Debug/
+小通讯录/
